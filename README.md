@@ -65,13 +65,13 @@ where `mu` is the location parameter and `s` is the scale parameter.
 ## Usage
 
 ```javascript
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@v0.2.2-deno/mod.js';
 ```
 
 #### logpdf( x, mu, s )
@@ -152,7 +152,7 @@ y = mylogpdf( 5.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-logpdf@v0.2.2-deno/mod.js';
 
 var mu;
 var s;
