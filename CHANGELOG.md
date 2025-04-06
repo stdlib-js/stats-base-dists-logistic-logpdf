@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-02)
+## Unreleased (2025-04-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4760d21`](https://github.com/stdlib-js/stdlib/commit/4760d213de7e085a75510d02f65f1c3fdd12b90c) - **docs:** fix C Doxygen return tag _(by Philipp Burckhardt)_
 -   [`dceca5a`](https://github.com/stdlib-js/stdlib/commit/dceca5a59de54aa48e73075bc9acbc4c7656e7aa) - **test:** fix addon tests _(by Athan Reines)_
 -   [`0e04cae`](https://github.com/stdlib-js/stdlib/commit/0e04cae89fe28a88081186969948e8e8013ab41d) - **feat:** add C implementation for `@stdlib/stats-base/dists/logistic/logpdf` [(#4388)](https://github.com/stdlib-js/stdlib/pull/4388) _(by Dhruv Arvind Singh, stdlib-bot, Philipp Burckhardt)_
 -   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
