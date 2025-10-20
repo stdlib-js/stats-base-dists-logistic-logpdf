@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-07)
+## Unreleased (2025-10-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e4be7f9`](https://github.com/stdlib-js/stdlib/commit/e4be7f953df25fba01efe2355dd82208023a00f6) - **docs:** replace manual `for` loop in examples [(#8259)](https://github.com/stdlib-js/stdlib/pull/8259) _(by Harsh Yadav)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
 -   [`4589cee`](https://github.com/stdlib-js/stdlib/commit/4589cee4e69b2a4c4a433321f413824a69eebb6e) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -42,7 +43,7 @@ A total of 2 issues were closed in this release:
 -   [`4760d21`](https://github.com/stdlib-js/stdlib/commit/4760d213de7e085a75510d02f65f1c3fdd12b90c) - **docs:** fix C Doxygen return tag _(by Philipp Burckhardt)_
 -   [`dceca5a`](https://github.com/stdlib-js/stdlib/commit/dceca5a59de54aa48e73075bc9acbc4c7656e7aa) - **test:** fix addon tests _(by Athan Reines)_
 -   [`0e04cae`](https://github.com/stdlib-js/stdlib/commit/0e04cae89fe28a88081186969948e8e8013ab41d) - **feat:** add C implementation for `@stdlib/stats-base/dists/logistic/logpdf` [(#4388)](https://github.com/stdlib-js/stdlib/pull/4388) _(by Dhruv Arvind Singh, stdlib-bot, Philipp Burckhardt)_
--   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
+-   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by Gopi Kishan, Gopi Kishan)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -59,8 +60,8 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Dhruv Arvind Singh
--   GK Bishnoi
 -   Gopi Kishan
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
