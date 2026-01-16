@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-21)
+## Unreleased (2026-01-16)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`bf8af22`](https://github.com/stdlib-js/stdlib/commit/bf8af2283026f8ba57f0df6647e28e619887e3ca) - **bench:** update random value generation [(#9764)](https://github.com/stdlib-js/stdlib/pull/9764) _(by Harsh Yadav)_
 -   [`9b13062`](https://github.com/stdlib-js/stdlib/commit/9b130625f0f19866a877023e9be85204636ef01e) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
 -   [`e4be7f9`](https://github.com/stdlib-js/stdlib/commit/e4be7f953df25fba01efe2355dd82208023a00f6) - **docs:** replace manual `for` loop in examples [(#8259)](https://github.com/stdlib-js/stdlib/pull/8259) _(by Harsh Yadav)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
