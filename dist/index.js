@@ -1,7 +1,0 @@
-"use strict";var o=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var N=o(function(C,c){
-var n=require('@stdlib/math-base-assert-is-nan/dist'),y=require('@stdlib/math-base-special-log1p/dist'),d=require('@stdlib/math-base-special-abs/dist'),z=require('@stdlib/math-base-special-exp/dist'),F=require('@stdlib/math-base-special-ln/dist'),v=require('@stdlib/constants-float64-ninf/dist'),I=require('@stdlib/constants-float64-pinf/dist');function b(e,r,a){var t,i;return n(e)||n(r)||n(a)||a<0?NaN:e===v?v:a===0?e===r?I:v:(i=(e-r)/a,t=-d(i),t-2*y(z(t))-F(a))}c.exports=b
-});var s=o(function(D,l){
-var O=require('@stdlib/utils-constant-function/dist'),P=require('@stdlib/stats-base-dists-degenerate-logpdf/dist').factory,q=require('@stdlib/math-base-assert-is-nan/dist'),R=require('@stdlib/math-base-special-log1p/dist'),h=require('@stdlib/math-base-special-abs/dist'),j=require('@stdlib/math-base-special-exp/dist'),k=require('@stdlib/math-base-special-ln/dist'),p=require('@stdlib/constants-float64-ninf/dist');function w(e,r){var a;if(q(e)||q(r)||r<0)return O(NaN);if(r===0)return P(e);return a=k(r),t;function t(i){var u,f;return q(i)?NaN:i===p?p:(f=(i-e)/r,u=-h(f),u-2*R(j(u))-a)}}l.exports=w
-});var x=require('@stdlib/utils-define-nonenumerable-read-only-property/dist'),g=N(),A=s();x(g,"factory",A);module.exports=g;
-/** @license Apache-2.0 */
-//# sourceMappingURL=index.js.map
