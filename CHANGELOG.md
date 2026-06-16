@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-11)
+## Unreleased (2026-06-16)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`91c5dd1`](https://github.com/stdlib-js/stdlib/commit/91c5dd10beac7d3e2763585abd74c5d29ff429f8) - **style:** add missing spaces [(#12920)](https://github.com/stdlib-js/stdlib/pull/12920) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`2a2228d`](https://github.com/stdlib-js/stdlib/commit/2a2228d7ae175857ca7677a3b008d9fd334ae0ef) - **fix:** update parameter name [(#12486)](https://github.com/stdlib-js/stdlib/pull/12486) _(by Philipp Burckhardt)_
 -   [`ac2de21`](https://github.com/stdlib-js/stdlib/commit/ac2de219ef2fb87ceb61360e6c267c5ab1e3cdbb) - **style:** replace erroneous tab character with space _(by Philipp Burckhardt)_
